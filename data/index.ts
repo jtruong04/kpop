@@ -17,23 +17,23 @@ export type Data = {
 
 export const data:Data = {
     "top10": [
-        "kangdaniel_parade",
-        "bi_btbt",
-        "bibi_animal_farm",
-        "seulgi_28_reasons",
-        "lucy_play",
-        "straykids_heyday",
-        "ten_birthday",
-        "&team_undertheskin",
+        "lesserafim_impurities",
         "jacksonwang_cruel",
-        "lesserafim_impurities"
+        "&team_undertheskin",
+        "ten_birthday",
+        "straykids_heyday",
+        "lucy_play",
+        "seulgi_28_reasons",
+        "bibi_animal_farm",
+        "bi_btbt",
+        "kangdaniel_parade",
     ],
     "honorable_mentions": [
-        "oneus_same_scent",
         "woosung_phase_me",
-        "cix_458",
         "xdinaryheroes_strawberrycake",
-        "kingdom_longlivetheking"
+        "kingdom_longlivetheking",
+        "cix_458",
+        "oneus_same_scent",
     ],
     "entries": {
         "kangdaniel_parade": {
