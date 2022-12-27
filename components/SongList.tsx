@@ -22,7 +22,7 @@ const SongList = ({ songs }: Props) => {
         <div className={styles.list}>
             <ScrollContainer snap="proximity">
                 {songs.reverse().map((song: Song, index: number) => (
-                    <ScrollPage>
+                    <ScrollPage key={`song-${songs.length - index}`}>
                         <div
                             id={`song-${songs.length - index}`}
                             style={{
